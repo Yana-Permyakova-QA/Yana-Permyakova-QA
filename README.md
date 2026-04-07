@@ -80,7 +80,8 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/diplom.png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/diplom.png)
+[<img src="/diplom.png" width="280px" hspace="10px" alt="Сертификат»">]
+(https://raw.githubusercontent.com/Yana-Permyakova-QA/Yana-Permyakova-QA/refs/heads/main/sertificate_2026-03-11_18-00-47.jpg)
 
 
 <br>
