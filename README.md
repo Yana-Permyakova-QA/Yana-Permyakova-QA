@@ -92,7 +92,8 @@
 <br>
 
 ## 🤝 Контакт
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:yanapermyakova0892@mail.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/@Yana_1992_08)
+- <img height="20" width="20" src="https://github.com/belyakovko/belyakovko/blob/259dfb7451faa9d0b906502b658f67e51f61f9dd/assets/icon_mail.png"/> [yanapermyakova0892@mail.ru](mailto:yanapermyakova0892@mail.ru)
+- <img height="20" width="20" src="https://github.com/belyakovko/belyakovko/blob/259dfb7451faa9d0b906502b658f67e51f61f9dd/assets/icon_telegram.png"/> [@Yana_1992_08](https://t.me/Yana_1992_08)
+
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
