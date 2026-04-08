@@ -1,6 +1,10 @@
 ## Привет 👋
-Меня зовут Яна, я QA Engineer
-
+Меня зовут Яна, я QA Engineer.
+<img align="right" width="350" height="350" src="" />
+Моя задача — не просто находить баги, а предотвращать их появление и делать продукт лучше для пользователей.
+- 🚀 **Начинающий специалист** по тестированию ПО. Владею основами ручного тестирования веб‑приложений, работаю с Yandex Tracker и Postman. Изучаю SQL и основы автоматизации. Стремлюсь к профессиональному росту в QA и готова участвовать в интересных проектах для получения практического опыта.</br>
+- 🤝 **Открыт к сотрудничеству** и стремлюсь присоединиться к сильной команде высококвалифицированных специалистов для работы над уникальными проектами, открывающими новые возможности..</br>
+- :dart: Моя цель - **стать высококлассным QA-специалистом** освоить автоматизацию тестирования и научиться обеспечивать высокое качество программных продуктов на всех этапах разработки. Готова усердно учиться и вносить вклад в интересные проекты.</br>
 ## 📊 Статистика
 
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=Yana-Permyakova-QA)
@@ -22,6 +26,7 @@
   <img src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" title="REST" alt="REST" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Docker.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp
 </div>
 
 ## Тестирование Web и Мобильных приложений
