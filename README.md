@@ -80,7 +80,7 @@
 <br>
 
 ## 🪴 Практика и стажировка
-
+<td align="center"><img width="300"     src=https://raw.githubusercontent.com/Yana-Permyakova-QA/Yana-Permyakova-QA/refs/heads/main/IMG_0316.PNG" />  </td>
 
 <br>
 
