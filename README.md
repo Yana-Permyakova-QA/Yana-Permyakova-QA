@@ -80,7 +80,7 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/diplom.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/Yana-Permyakova-QA/Yana-Permyakova-QA/refs/heads/main/IMG_0316.PNG)
+[<img src="IMG_0316.PNG" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/Yana-Permyakova-QA/Yana-Permyakova-QA/refs/heads/main/IMG_0316.PNG)
 
 <br>
 
