@@ -86,7 +86,7 @@
 
 ## 🎒 Образование
 [<img src="/sertificate_2026-03-11_18-00-47.jpg" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/Yana-Permyakova-QA/Yana-Permyakova-QA/refs/heads/main/sertificate_2026-03-11_18-00-47.jpg)
-[<img src="/sertificate_2026-03-11_18-00-47.jpg" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/Yana-Permyakova-QA/Yana-Permyakova-QA/refs/heads/main/IMG_0314.PNG)
+[<img src="/sertificate_2026-03-11_18-00-47.jpg" width="280px" hspace="10px" alt="Диплом»">](https://github.com/Yana-Permyakova-QA/Yana-Permyakova-QA/blob/main/IMG_0314.PNG)
 
 <br>
 <br>
